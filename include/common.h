@@ -84,7 +84,6 @@ namespace life {
    static const Color STEEL_BLUE    = Color{70,130,180} ; //!< Yet another bluish color.
    static const Color YELLOW        = Color{255,255,0}  ; //!< Yellow.
    static const Color LIGHT_YELLOW  = Color{255,255,153}; //!< Light yellow.
-
 } // namespace
 
 #endif // COMMON_H
